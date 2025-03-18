@@ -1,4 +1,4 @@
-<?php include('header.php') ?>
+<?php include('header.php') ?> 
 <div class="accordion12">
     <h1 class="heading1">My Projects</h1>
 <button class="accordion"><b>PHP Projects</b></button>
